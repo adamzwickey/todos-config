@@ -4,4 +4,4 @@ todos:
 eureka:    
   client:
     service-url: 
-      defaultZone: 'http://cloud-index.cfapps.io/eureka/'
+      defaultZone: 'https://cloud-index.cfapps.io/eureka/'
