@@ -1,3 +1,7 @@
 todos:
   api:
     limit: 256
+eureka:    
+  client:
+    service-url: 
+      defaultZone: 'http://cloud-index.cfapps.io/eureka/'
