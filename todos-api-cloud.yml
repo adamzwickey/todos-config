@@ -1,6 +1,6 @@
 todos:
   api:
-    limit: 128 
+    limit: 64 
 eureka:    
   client:
     service-url: 
