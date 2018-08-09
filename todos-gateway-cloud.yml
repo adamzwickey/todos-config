@@ -8,3 +8,6 @@ zuul:
       url: http://todos-ui.cfapps.io
     api:
       url: http://todos-api.cfapps.io
+todos:
+  api:
+    mode: cqrs      
