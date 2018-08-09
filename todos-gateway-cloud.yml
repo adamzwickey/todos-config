@@ -6,8 +6,8 @@ zuul:
   routes:
     ui:
       url: http://todos-ui.cfapps.io
-#     api:
-#       url: http://todos-api.cfapps.io
+    api:
+      url: http://todos-api.cfapps.io
 todos:
   api:
     mode: cqrs      
