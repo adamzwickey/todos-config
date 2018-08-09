@@ -2,12 +2,12 @@ eureka:
   client:
     service-url: 
       defaultZone: https://cloud-index.cfapps.io/eureka/
-# zuul:
-#   routes:
-#     ui:
-#       url: http://todos-ui.cfapps.io
-#     api:
-#       url: http://todos-api.cfapps.io
+zuul:
+  routes:
+    ui:
+      url: http://todos-ui.cfapps.io
+    api:
+      url: http://todos-api.cfapps.io
 todos:
   api:
     mode: cqrs      
