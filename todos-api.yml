@@ -1,5 +1,5 @@
 # todos-api default profile properties
 todos:
   api:
-    limit: 64
+    limit: 128
     message: '{cipher}AQBqmA6yLw6zRNLVwbBfMrA/ch/1DCkKzGMUfRKMLffX3o8TtzL5wWlbQnE3EEwmnf73lZfwM0Ii8YqCt9FOtVEnLjN9+LBwUxNKFJj6rKFyJFxest24VpHRQi4PjnJ8fdXPXlGEiMp9bk+ru8R9M8WcHpKXZ/bKME4wE9wjrykpk+PBvD074JKE4GnwDOarNaS34mGJAZ/sK4OV2XFHSTFRmYp43Jsq18U2mz978pukFX2UWGmtzJ+cBAuOOePJkaJOIiWnrKF8rgB5jPBHU46qjt3CllY6QUayjdL/aqae9vTBdCMMKSma1V/C46AUGod1cXEwYREwc0kNf0ymr2ZHohZTKqucqyWfIm1/JY+ELwADshITWpuIgB26zpxxuJQ='
