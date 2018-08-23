@@ -1,7 +1,7 @@
 # todos-api cloud profile properties
 todos:
   api:
-    limit: 64 
+    limit: 128 
 eureka:    
   client:
     service-url: 
