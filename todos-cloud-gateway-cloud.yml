@@ -1,0 +1,5 @@
+# todos-cloud-gateway cloud profile properties
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: 'https://cloud-index.cfapps.io/eureka/'
