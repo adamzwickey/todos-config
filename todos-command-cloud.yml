@@ -1,5 +1,0 @@
-# todos-command cloud profile properties
-eureka:    
-  client:
-    service-url: 
-      defaultZone: 'https://cloud-index.cfapps.io/eureka/'

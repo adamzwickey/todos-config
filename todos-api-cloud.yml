@@ -1,8 +1,0 @@
-# todos-api cloud profile properties
-todos:
-  api:
-    limit: 256 
-eureka:    
-  client:
-    service-url: 
-      defaultZone: 'https://cloud-index.cfapps.io/eureka/'
