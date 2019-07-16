@@ -1,5 +1,5 @@
 todos:
   api:
-    endpoint: https://todos-api.apps.retro.io
+    endpoint: https://todos-api.apps.haas-434.pez.pivotal.io
   ui:
-    endpoint: https://todos-webui.apps.retro.io
+    endpoint: https://todos-webui.apps.haas-434.pez.pivotal.io
