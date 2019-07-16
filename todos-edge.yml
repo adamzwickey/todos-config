@@ -1,5 +1,5 @@
 todos:
   api:
-    endpoint: https://todos-api.apps.internal
+    endpoint: http://todos-api.apps.internal:8080
   ui:
-    endpoint: https://todos-webui.apps.internal
+    endpoint: http://todos-webui.apps.internal:8080
