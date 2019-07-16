@@ -1,5 +1,5 @@
 todos:
   api:
-    endpoint: http://todos-api.apps.internal:8080
+    endpoint: http://todos-mysql.apps.internal:8080
   ui:
     endpoint: http://todos-webui.apps.internal:8080
